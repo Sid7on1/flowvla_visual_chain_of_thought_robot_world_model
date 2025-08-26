@@ -1,0 +1,54 @@
+# requirements.txt
+
+# Transformers
+transformers==4.20.1
+
+# PyTorch
+torch==1.12.1+cpu
+
+# OpenCV
+opencv-python==4.5.5.64
+
+# NumPy
+numpy==1.22.3
+
+# Pillow
+pillow==9.0.1
+
+# tqdm
+tqdm==4.62.3
+
+# WandB
+wandb==0.12.17
+
+# Hydra
+hydra-core==1.1.1
+
+# Einops
+einops==0.4.0
+
+# Accelerate
+accelerate==0.3.0
+
+# Datasets
+datasets==1.4.0
+
+# Tokenizers
+tokenizers==0.10.3
+
+# RAFT
+raft_torch==1.0.1
+
+# SciPy
+scipy==1.7.3
+
+# Matplotlib
+matplotlib==3.5.1
+
+# Seaborn
+seaborn==0.11.2
+
+# Other dependencies
+pandas==1.4.2
+scikit-learn==1.0.2
+joblib==1.1.0
