@@ -1,0 +1,8 @@
+{
+  "from": "coder2",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to save scripts/precompute_flow.py: [Errno 2] No such file or directory: 'artifacts/projects/FlowVLA_Visual_Chain_of_Thought_Robot_World_Model/scripts/precompute_flow.py'",
+  "details": {},
+  "timestamp": "2025-08-26T20:54:11.302106"
+}
