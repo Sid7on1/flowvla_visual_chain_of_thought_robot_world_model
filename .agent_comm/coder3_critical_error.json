@@ -1,0 +1,8 @@
+{
+  "from": "coder3",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to generate code for tests/test_data_loader.py after 3 attempts",
+  "details": {},
+  "timestamp": "2025-08-26T20:58:18.881817"
+}
